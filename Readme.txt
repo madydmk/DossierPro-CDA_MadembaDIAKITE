@@ -7,3 +7,4 @@ d'apprendre le .NET et le fonctionnement de l'application (ajouter capture des r
 4. Appli multi couche: ??
 
 Parler des test unitaires PHP
+LIEN CONCEPTION AGENDA: https://urlz.fr/hXtI
